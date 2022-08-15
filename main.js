@@ -1,11 +1,8 @@
-alert('Iremos jogar um jogo de adivinhação')
-
-let result = prompt('Adivinhe o número que estou pensando, está entre 0 e 10')
-let randomNumber = Math.round(Math.random() * 10)
+let person = prompt('Jogo da adivinhação, digite seu nome')
+let result = prompt('Tente adivinhar o número que estou pensando entre 0 e 1')
+const randomNumber = Math.round(Math.random() * 10)
 let xAttempts = 1
-
 while(Number(result) != randomNumber){ 
-    result = prompt(`Você errou, tente novamente !`)
-xAttempts++
+    result = prompt('Você errou, tente novamente ! ')
 }
-alert(`Parabens você acertou em ${xAttempts} tentativas o numero é ${result}.`)
+alert(`Parabens ${person}, você conseguiu adivinhar o número que pensei, o número: ${result}`)
