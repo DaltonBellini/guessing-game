@@ -1,3 +1,4 @@
+https://daltonbellini.github.io/guessing-game/
 <h1>Nesse projeto aprendi sobre:</h1>
 [] Como controlar o fluxo da aplicação<br>
 [] Estrutura de repetição while<br>
