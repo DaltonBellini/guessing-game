@@ -3,15 +3,15 @@
 [] Estrutura de repetição while<br>
 [] Gerar número aleatório utilizando Math()<br>
 <p>
-Pacote com funcionalidades matemáticas
-Math.random()
-Math.round() - Math.ceil() - Math.floor()
-[] Tipo de dado: NaN
-não é um número
-[] Tipo de erro: SyntaxError
-erro de sintaxe; erro de escrita de código
-[] console
-Pacote com funcionalidades para o console do devtools (browser)
-[] template literals ou template strings
-interpolação de dados
+Pacote com funcionalidades matemáticas<br>
+Math.random()<br>
+Math.round() - Math.ceil() - Math.floor()<br>
+[] Tipo de dado: NaN<br>
+não é um número<br>
+[] Tipo de erro: SyntaxError<br>
+erro de sintaxe; erro de escrita de código<br>
+[] console<br>
+Pacote com funcionalidades para o console do devtools (browser)<br>
+[] template literals ou template strings<br>
+interpolação de dados<br>
 </p>
