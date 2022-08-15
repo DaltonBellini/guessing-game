@@ -1,4 +1,4 @@
-<h1>Nessa projeto aprendi sobre:</h1>
+<h1>Nesse projeto aprendi sobre:</h1>
 [] Como controlar o fluxo da aplicação<br>
 [] Estrutura de repetição while<br>
 [] Gerar número aleatório utilizando Math()<br>
